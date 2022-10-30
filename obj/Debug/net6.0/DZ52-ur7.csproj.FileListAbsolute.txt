@@ -1,0 +1,15 @@
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\bin\Debug\net6.0\DZ52-ur7.exe
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\bin\Debug\net6.0\DZ52-ur7.deps.json
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\bin\Debug\net6.0\DZ52-ur7.runtimeconfig.json
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\bin\Debug\net6.0\DZ52-ur7.dll
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\bin\Debug\net6.0\DZ52-ur7.pdb
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\obj\Debug\net6.0\DZ52-ur7.csproj.AssemblyReference.cache
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\obj\Debug\net6.0\DZ52-ur7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\obj\Debug\net6.0\DZ52-ur7.AssemblyInfoInputs.cache
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\obj\Debug\net6.0\DZ52-ur7.AssemblyInfo.cs
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\obj\Debug\net6.0\DZ52-ur7.csproj.CoreCompileInputs.cache
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\obj\Debug\net6.0\DZ52-ur7.dll
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\obj\Debug\net6.0\refint\DZ52-ur7.dll
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\obj\Debug\net6.0\DZ52-ur7.pdb
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\obj\Debug\net6.0\DZ52-ur7.genruntimeconfig.cache
+C:\Users\Yran\Seminar3_S#\DZ52-ur7\obj\Debug\net6.0\ref\DZ52-ur7.dll
